@@ -6,11 +6,11 @@ Construição portfolio desafio fullstack do bootcamp <a href="https://rocketsea
 
 Criação do servidor utilizando Express NodeJS , injetando template engine com Nunjucks.
 
-Ps: "Error 404 - Not found" forte referência com "Guia do mochileiro das galaxias" , transição do background, gif embutindo o estilo direto na DOM com Javascript. 
+Ps: "Error 404 - Not found" forte referência com "Guia do mochileiro das galáxias" , transição do background, gif embutindo o estilo direto na DOM com Javascript. 
 
 <h3>Na Pratica</h3>
 
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/28874479/85187976-208bab80-b27a-11ea-9ee4-ffa926024168.gif"/>
 
 Tecnologias utilizadas :
 
