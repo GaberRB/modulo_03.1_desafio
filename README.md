@@ -21,7 +21,7 @@ Tecnologias utilizadas :
 
 <img src="https://img.icons8.com/color/24/000000/javascript.png"/><a href="https://www.w3schools.com/js/" target="_blank">JS</a>
 
-<img src=""/><a href="https://nodejs.org/en/" target="_blank">NodeJS</a> </br>
+<img src="https://user-images.githubusercontent.com/28874479/85187872-6f851100-b279-11ea-874c-68e52bff3864.png"/><a href="https://nodejs.org/en/" target="_blank">NodeJS</a> </br>
 
 <img src="https://user-images.githubusercontent.com/28874479/85187819-07cec600-b279-11ea-8df6-0c714527f704.png"/><a href="https://mozilla.github.io/nunjucks/" target="_blank">Nunjucks</a>
 
