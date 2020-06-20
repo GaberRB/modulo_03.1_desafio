@@ -2,7 +2,7 @@
 
 <b># Modulo 3 Desafio </b>
 
-Construição portfolio desafio fullstack do bootcamp <a href="https://rocketseat.com.br/" target="_blank">Launchbase Rocketseat.</a> <img src="https://img.icons8.com/emoji/24/000000/rocket-emji.png"/>
+Construção portfolio desafio fullstack do bootcamp <a href="https://rocketseat.com.br/" target="_blank">Launchbase Rocketseat.</a> <img src="https://img.icons8.com/emoji/24/000000/rocket-emji.png"/>
 
 Criação do servidor utilizando Express NodeJS , injetando template engine com Nunjucks.
 
